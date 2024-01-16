@@ -1,3 +1,7 @@
+# gather training images
+
+I asked dall-e 3 to create a few images. 
+
 # train
 
 The first arg to train.sh needs to be a dir in `projects`.
