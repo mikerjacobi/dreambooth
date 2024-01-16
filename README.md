@@ -21,3 +21,7 @@ heuristics on whether a given sample is good or not.
 ```
 python ship_sample.py
 ```
+
+# Acknowledgement
+
+https://github.com/huggingface/diffusers/tree/main/examples/dreambooth
